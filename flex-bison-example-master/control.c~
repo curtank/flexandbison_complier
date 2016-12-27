@@ -1,0 +1,7 @@
+main()
+{
+	int a, b;
+	if (a) a=1; if (b) b=2; else c=3;
+	if (a) { if (b); } else;
+	for(;;) for(;;a + b) {};
+}

@@ -1,0 +1,10 @@
+main()
+{
+	int a,e,b=1,c=11;
+	a=a+b;
+	b=c+e;
+	char d;
+	b=d+e;
+	d++;
+
+}
